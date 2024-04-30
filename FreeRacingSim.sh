@@ -1,3 +1,5 @@
+#NOTE: This code is purely for educational purposes and is not to be used in a malicious way.
+
 #!/bin/bash
 
 
