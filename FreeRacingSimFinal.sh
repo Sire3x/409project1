@@ -5,6 +5,7 @@
 
 # Array of search engines to check for internet connection
 SEARCH_ENGINES=("www.google.com" "www.bing.com" "www.yahoo.com" "www.duckduckgo.com")
+#Base64 string shortened for readability. 
 readme = "iVBORw0KGgoAAAANSUhEUgAAAegAAAFiCAYAAAA9e0uyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0HmGXZVd8Nn+pKHatznp4c0ChiSSAkYZJJIgfJH5hgMOYDg8kYMB8YY78mPgYb/PCY10SDBQIMNiLZRAkBEiAhJKE0qdN0zrm6uu/3//3XXveee+qcW7d6umd6xKxbu845O6y>
 # Check for internet connection
 for engine in "${SEARCH_ENGINES[@]}"; do if ping -c 1 "${engine}" > /dev/null 2>&1; then
@@ -59,6 +60,7 @@ while true; do
   sleep 5
 done
 
+#Base64 string shortened for readability. 
 readme2 = "iVBORw0KGgoAAAANSUhEUgAAAegAAAFiCAYAAAA9e0uyAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAP+lSURBVHhe7P0HmGXZVd8Nn+pKHatznp4c0ChiSSAkYZJJIgfJH5hgMOYDg8kYMB8YY78mPgYb/PCY10SDBQIMNiLZRAkBEiAhJKE0qdN0zrm6uu/3//3XXveee+qcW7d6umd6xKxbu845O6>
 
 
