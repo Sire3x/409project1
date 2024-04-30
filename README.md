@@ -2,7 +2,7 @@
 A proposal for the Malware Project we are working on.
 
 # Proposal 
-------------------------------------------------Emotet Trojan, "The King of Malware"-------------------------------------------------------------------
+------------------------------------------------FreeRacingSim Malware----------------------------------------------------
 
 For my proposal I have decided to take a spin on one of my favorite hobbies, video games.  I am calling this malware, "FreeRacingSim", the idea is that it reaches out to the internet and find a racing sim online, from there it will download it and run it. Everything seems perfectly normal when you are playing the game but once you stop playing it it ends up deleting some of your registery keys.  It also aims at running the game continously so even if you were to close it it would attempt to just boot back up again, making the only way for it to be disabled is to restart your system or to do a hard wipe of your system.   
 
