@@ -1,4 +1,5 @@
 #NOTE: This code is purely for educational purposes and is not to be used in a malicious way.
+#This is part 2 of the project and currently does not have any obfuscation or evasion tactics in place.
 
 #!/bin/bash
 
