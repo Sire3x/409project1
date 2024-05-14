@@ -54,7 +54,7 @@ game_pid=$!
 
 while true; do
   if ! pgrep -x 'City Racing'.lnk > /dev/null; then
-	#on_exit
+	on_exit
   fi
   sleep 5
 done
